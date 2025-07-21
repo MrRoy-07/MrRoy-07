@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm an Enginner who is Putting pieces together, Git by Git. 🧩<br><br>
+I'm an enthusiastic Front-End Developer with experience in building responsive web applications using HTML, CSS, and JavaScript.Proficient in Java and Cloud Platforms(GCP). As i'm certified Microdoft: Azure Fundamentals and Google: Cloud Engineering Certificate.   🧩<br><br>
 
 
 ## 🌐 Socials:
